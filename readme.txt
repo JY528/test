@@ -9,4 +9,4 @@ use git checkout -- file
 =======
 解决冲突
 >>>>>>> fenzhi1
-bug 分支
+修复bug 分支
